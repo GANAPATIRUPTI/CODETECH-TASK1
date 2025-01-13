@@ -52,3 +52,6 @@ Wind Speed (km/h)
 Weather Condition Icon
 
 If an invalid city name is entered, an error message appears, prompting the user to try again.
+
+![TASK_1](https://github.com/user-attachments/assets/f8bb901e-5375-4ea6-ba9a-fcc27f8374e5)
+
