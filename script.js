@@ -1,3 +1,7 @@
+/*CODETECK-TASK 1 API ADD */
+/* this is my java script file is used for in website to make them intractive , dynamic , and functional its attach with my main file index.html */
+/* my api use is https://api.openweathermap.org/data/2.5/weather?q=London&appid=6cb5cfb65079dd770792e7d3c7101db1 */
+
 const apikey = "6cb5cfb65079dd770792e7d3c7101db1";
 const apiurl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
