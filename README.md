@@ -52,6 +52,10 @@ Wind Speed (km/h)
 Weather Condition Icon
 
 If an invalid city name is entered, an error message appears, prompting the user to try again.
+**screenshots output**
+![Task1](https://github.com/user-attachments/assets/670884d9-08a2-44da-b403-40e0d0c49db3)
+
+input:mumbai
 
 ![TASK_1](https://github.com/user-attachments/assets/f8bb901e-5375-4ea6-ba9a-fcc27f8374e5)
 
